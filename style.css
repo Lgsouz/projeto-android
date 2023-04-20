@@ -169,10 +169,6 @@ h2
     background-image: linear-gradient(to right, rgba(74, 246, 154, 0.777), white );
     background-attachment: fixed;
  }
- div
- {
-   
- }
 
  div.cor {
     background-color: rgb(2, 75, 2);
@@ -189,4 +185,10 @@ h2
     margin:auto;
     display:block;
     width: 100%;
+ }
+
+ iframe
+ {
+    display: block;
+    margin: 0 auto;
  }
